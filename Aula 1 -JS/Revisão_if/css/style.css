@@ -1,0 +1,10 @@
+body{
+    font-size: 14pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button{
+    font-size: 18pt;
+    color: bisque;
+    background-color: brown;
+}
